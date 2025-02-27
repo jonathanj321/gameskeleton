@@ -17,7 +17,9 @@ struct ContentView: View {
     var body: some View {
         Circle()
             .fill(.blue)
+        Text(__designTimeString("#6492_0", fallback: "hello"))
     }
+    
 }
 
 #Preview {
