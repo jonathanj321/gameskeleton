@@ -11,7 +11,9 @@ struct ContentView: View {
     var body: some View {
         Circle()
             .fill(.blue)
+        Text("hello")
     }
+    
 }
 
 #Preview {

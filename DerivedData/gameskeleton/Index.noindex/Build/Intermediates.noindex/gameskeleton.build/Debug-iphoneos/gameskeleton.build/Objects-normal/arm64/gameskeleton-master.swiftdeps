@@ -1,0 +1,9 @@
+version: "Apple Swift version 6.0 (swiftlang-6.0.0.9.10 clang-1600.0.26.2)"
+options: "471e225d662a3b503a01aa7e25dcd3911afabb28f1956efafc67ba3fa8d7eded"
+build_start_time: [1740639419, 650664000]
+build_end_time: [1740639420, 381009000]
+inputs:
+  ? "/Users/jj/Desktop/gameskeleton/DerivedData/gameskeleton/Index.noindex/Build/Intermediates.noindex/gameskeleton.build/Debug-iphoneos/gameskeleton.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : [1740638868, 472340817]
+  "/Users/jj/Desktop/gameskeleton/gameskeleton/ContentView.swift": [1740639161, 457829000]
+  "/Users/jj/Desktop/gameskeleton/gameskeleton/gameskeletonApp.swift": [1740613026, 844508402]

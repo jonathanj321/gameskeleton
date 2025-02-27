@@ -6,6 +6,48 @@
 	<integer>11</integer>
 	<key>logs</key>
 	<dict>
+		<key>09EF69EE-A9F9-4B42-97C4-1D3CF58886EB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>09EF69EE-A9F9-4B42-97C4-1D3CF58886EB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>gameskeleton project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>gameskeleton</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build (Automatic) gameskeleton</string>
+			<key>timeStartedRecording</key>
+			<real>762332465.96699595</real>
+			<key>timeStoppedRecording</key>
+			<real>762332467.12169504</real>
+			<key>title</key>
+			<string>Build (Automatic) gameskeleton</string>
+			<key>uniqueIdentifier</key>
+			<string>09EF69EE-A9F9-4B42-97C4-1D3CF58886EB</string>
+		</dict>
 		<key>17B60E84-A967-4ABD-BB10-C9752A3F60AB</key>
 		<dict>
 			<key>className</key>
@@ -48,6 +90,48 @@
 			<key>uniqueIdentifier</key>
 			<string>17B60E84-A967-4ABD-BB10-C9752A3F60AB</string>
 		</dict>
+		<key>4E72D189-61AA-4335-B5B4-A4E7F8E30DB9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4E72D189-61AA-4335-B5B4-A4E7F8E30DB9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>gameskeleton project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>gameskeleton</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build (Automatic) gameskeleton</string>
+			<key>timeStartedRecording</key>
+			<real>762331893.36045206</real>
+			<key>timeStoppedRecording</key>
+			<real>762331894.36332703</real>
+			<key>title</key>
+			<string>Build (Automatic) gameskeleton</string>
+			<key>uniqueIdentifier</key>
+			<string>4E72D189-61AA-4335-B5B4-A4E7F8E30DB9</string>
+		</dict>
 		<key>D995D548-14C4-4679-8B25-A1214189AEA4</key>
 		<dict>
 			<key>className</key>
@@ -89,6 +173,48 @@
 			<string>Build (Automatic) gameskeleton</string>
 			<key>uniqueIdentifier</key>
 			<string>D995D548-14C4-4679-8B25-A1214189AEA4</string>
+		</dict>
+		<key>EDF1A4D1-8E2D-467B-9BF0-66B2C04CE576</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EDF1A4D1-8E2D-467B-9BF0-66B2C04CE576.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>gameskeleton project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>gameskeleton</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build (Automatic) gameskeleton</string>
+			<key>timeStartedRecording</key>
+			<real>762332408.97601104</real>
+			<key>timeStoppedRecording</key>
+			<real>762332411.005229</real>
+			<key>title</key>
+			<string>Build (Automatic) gameskeleton</string>
+			<key>uniqueIdentifier</key>
+			<string>EDF1A4D1-8E2D-467B-9BF0-66B2C04CE576</string>
 		</dict>
 	</dict>
 </dict>
