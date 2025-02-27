@@ -12,6 +12,11 @@ struct ContentView: View {
         Circle()
             .fill(.blue)
         Text("hello")
+        var x = 1
+        Button("press") {
+            print(x)
+            x += 1
+        }
     }
     
 }
