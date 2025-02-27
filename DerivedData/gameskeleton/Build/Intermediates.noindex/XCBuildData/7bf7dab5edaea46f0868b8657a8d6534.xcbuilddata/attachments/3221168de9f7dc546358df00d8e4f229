@@ -1,0 +1,38 @@
+{
+  "" : {
+    "diagnostics" : "/Users/jj/Desktop/gameskeleton/DerivedData/gameskeleton/Build/Intermediates.noindex/gameskeleton.build/Debug-iphonesimulator/gameskeleton.build/Objects-normal/arm64/gameskeleton-master.dia",
+    "emit-module-dependencies" : "/Users/jj/Desktop/gameskeleton/DerivedData/gameskeleton/Build/Intermediates.noindex/gameskeleton.build/Debug-iphonesimulator/gameskeleton.build/Objects-normal/arm64/gameskeleton-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/jj/Desktop/gameskeleton/DerivedData/gameskeleton/Build/Intermediates.noindex/gameskeleton.build/Debug-iphonesimulator/gameskeleton.build/Objects-normal/arm64/gameskeleton-master-emit-module.dia",
+    "swift-dependencies" : "/Users/jj/Desktop/gameskeleton/DerivedData/gameskeleton/Build/Intermediates.noindex/gameskeleton.build/Debug-iphonesimulator/gameskeleton.build/Objects-normal/arm64/gameskeleton-master.swiftdeps"
+  },
+  "/Users/jj/Desktop/gameskeleton/DerivedData/gameskeleton/Build/Intermediates.noindex/gameskeleton.build/Debug-iphonesimulator/gameskeleton.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/jj/Desktop/gameskeleton/DerivedData/gameskeleton/Build/Intermediates.noindex/gameskeleton.build/Debug-iphonesimulator/gameskeleton.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/jj/Desktop/gameskeleton/DerivedData/gameskeleton/Build/Intermediates.noindex/gameskeleton.build/Debug-iphonesimulator/gameskeleton.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/jj/Desktop/gameskeleton/DerivedData/gameskeleton/Build/Intermediates.noindex/gameskeleton.build/Debug-iphonesimulator/gameskeleton.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/gameskeleton.build/Debug-iphonesimulator/gameskeleton.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/jj/Desktop/gameskeleton/DerivedData/gameskeleton/Build/Intermediates.noindex/gameskeleton.build/Debug-iphonesimulator/gameskeleton.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/jj/Desktop/gameskeleton/DerivedData/gameskeleton/Build/Intermediates.noindex/gameskeleton.build/Debug-iphonesimulator/gameskeleton.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/jj/Desktop/gameskeleton/DerivedData/gameskeleton/Build/Intermediates.noindex/gameskeleton.build/Debug-iphonesimulator/gameskeleton.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/jj/Desktop/gameskeleton/DerivedData/gameskeleton/Build/Intermediates.noindex/gameskeleton.build/Debug-iphonesimulator/gameskeleton.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/jj/Desktop/gameskeleton/gameskeleton/ContentView.swift" : {
+    "const-values" : "/Users/jj/Desktop/gameskeleton/DerivedData/gameskeleton/Build/Intermediates.noindex/gameskeleton.build/Debug-iphonesimulator/gameskeleton.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/jj/Desktop/gameskeleton/DerivedData/gameskeleton/Build/Intermediates.noindex/gameskeleton.build/Debug-iphonesimulator/gameskeleton.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/jj/Desktop/gameskeleton/DerivedData/gameskeleton/Build/Intermediates.noindex/gameskeleton.build/Debug-iphonesimulator/gameskeleton.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/gameskeleton.build/Debug-iphonesimulator/gameskeleton.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/jj/Desktop/gameskeleton/DerivedData/gameskeleton/Build/Intermediates.noindex/gameskeleton.build/Debug-iphonesimulator/gameskeleton.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/jj/Desktop/gameskeleton/DerivedData/gameskeleton/Build/Intermediates.noindex/gameskeleton.build/Debug-iphonesimulator/gameskeleton.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/jj/Desktop/gameskeleton/DerivedData/gameskeleton/Build/Intermediates.noindex/gameskeleton.build/Debug-iphonesimulator/gameskeleton.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/jj/Desktop/gameskeleton/DerivedData/gameskeleton/Build/Intermediates.noindex/gameskeleton.build/Debug-iphonesimulator/gameskeleton.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/jj/Desktop/gameskeleton/gameskeleton/gameskeletonApp.swift" : {
+    "const-values" : "/Users/jj/Desktop/gameskeleton/DerivedData/gameskeleton/Build/Intermediates.noindex/gameskeleton.build/Debug-iphonesimulator/gameskeleton.build/Objects-normal/arm64/gameskeletonApp.swiftconstvalues",
+    "dependencies" : "/Users/jj/Desktop/gameskeleton/DerivedData/gameskeleton/Build/Intermediates.noindex/gameskeleton.build/Debug-iphonesimulator/gameskeleton.build/Objects-normal/arm64/gameskeletonApp.d",
+    "diagnostics" : "/Users/jj/Desktop/gameskeleton/DerivedData/gameskeleton/Build/Intermediates.noindex/gameskeleton.build/Debug-iphonesimulator/gameskeleton.build/Objects-normal/arm64/gameskeletonApp.dia",
+    "index-unit-output-path" : "/gameskeleton.build/Debug-iphonesimulator/gameskeleton.build/Objects-normal/arm64/gameskeletonApp.o",
+    "llvm-bc" : "/Users/jj/Desktop/gameskeleton/DerivedData/gameskeleton/Build/Intermediates.noindex/gameskeleton.build/Debug-iphonesimulator/gameskeleton.build/Objects-normal/arm64/gameskeletonApp.bc",
+    "object" : "/Users/jj/Desktop/gameskeleton/DerivedData/gameskeleton/Build/Intermediates.noindex/gameskeleton.build/Debug-iphonesimulator/gameskeleton.build/Objects-normal/arm64/gameskeletonApp.o",
+    "swift-dependencies" : "/Users/jj/Desktop/gameskeleton/DerivedData/gameskeleton/Build/Intermediates.noindex/gameskeleton.build/Debug-iphonesimulator/gameskeleton.build/Objects-normal/arm64/gameskeletonApp.swiftdeps",
+    "swiftmodule" : "/Users/jj/Desktop/gameskeleton/DerivedData/gameskeleton/Build/Intermediates.noindex/gameskeleton.build/Debug-iphonesimulator/gameskeleton.build/Objects-normal/arm64/gameskeletonApp~partial.swiftmodule"
+  }
+}

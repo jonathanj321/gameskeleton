@@ -1,0 +1,18 @@
+{
+  "" : {
+    "dependencies" : "/Users/jj/Desktop/gameskeleton/DerivedData/gameskeleton/Index.noindex/Build/Intermediates.noindex/gameskeleton.build/Debug-iphoneos/gameskeleton.build/Objects-normal/arm64/gameskeleton-master.d",
+    "diagnostics" : "/Users/jj/Desktop/gameskeleton/DerivedData/gameskeleton/Index.noindex/Build/Intermediates.noindex/gameskeleton.build/Debug-iphoneos/gameskeleton.build/Objects-normal/arm64/gameskeleton-master.dia",
+    "emit-module-dependencies" : "/Users/jj/Desktop/gameskeleton/DerivedData/gameskeleton/Index.noindex/Build/Intermediates.noindex/gameskeleton.build/Debug-iphoneos/gameskeleton.build/Objects-normal/arm64/gameskeleton-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/jj/Desktop/gameskeleton/DerivedData/gameskeleton/Index.noindex/Build/Intermediates.noindex/gameskeleton.build/Debug-iphoneos/gameskeleton.build/Objects-normal/arm64/gameskeleton-master-emit-module.dia",
+    "swift-dependencies" : "/Users/jj/Desktop/gameskeleton/DerivedData/gameskeleton/Index.noindex/Build/Intermediates.noindex/gameskeleton.build/Debug-iphoneos/gameskeleton.build/Objects-normal/arm64/gameskeleton-master.swiftdeps"
+  },
+  "/Users/jj/Desktop/gameskeleton/DerivedData/gameskeleton/Index.noindex/Build/Intermediates.noindex/gameskeleton.build/Debug-iphoneos/gameskeleton.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  },
+  "/Users/jj/Desktop/gameskeleton/gameskeleton/ContentView.swift" : {
+
+  },
+  "/Users/jj/Desktop/gameskeleton/gameskeleton/gameskeletonApp.swift" : {
+
+  }
+}

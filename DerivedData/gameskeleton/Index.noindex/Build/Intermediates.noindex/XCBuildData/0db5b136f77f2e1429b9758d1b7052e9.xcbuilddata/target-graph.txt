@@ -1,0 +1,13 @@
+Target dependency graph (8 targets)
+Target 'gameskeletonUITests' in project 'gameskeleton' (no dependencies)
+Target 'gameskeletonUITests' in project 'gameskeleton'
+➜ Explicit dependency on target 'gameskeleton' in project 'gameskeleton'
+Target 'gameskeletonUITests' in project 'gameskeleton'
+➜ Explicit dependency on target 'gameskeleton' in project 'gameskeleton'
+Target 'gameskeletonTests' in project 'gameskeleton' (no dependencies)
+Target 'gameskeletonTests' in project 'gameskeleton'
+➜ Explicit dependency on target 'gameskeleton' in project 'gameskeleton'
+Target 'gameskeletonTests' in project 'gameskeleton'
+➜ Explicit dependency on target 'gameskeleton' in project 'gameskeleton'
+Target 'gameskeleton' in project 'gameskeleton' (no dependencies)
+Target 'gameskeleton' in project 'gameskeleton' (no dependencies)

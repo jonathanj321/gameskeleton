@@ -1,0 +1,54 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "902c18664e07467d4e7f4aecd9c4734b98206b4bc1ab62195cf66b4e1a9beb12"
+    },
+    {
+      "guid" : "902c18664e07467d4e7f4aecd9c4734b012bc1ac6f8d935f27375d5edd9c33bd"
+    },
+    {
+      "guid" : "902c18664e07467d4e7f4aecd9c4734b2411eb2c9a8da1c2a70dbcc06c7def25"
+    }
+  ],
+  "containerPath" : "/Users/jj/Desktop/gameskeleton/gameskeleton.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/jj/Desktop/gameskeleton/DerivedData/gameskeleton/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/jj/Desktop/gameskeleton/DerivedData/gameskeleton/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/jj/Desktop/gameskeleton/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/jj/Desktop/gameskeleton/DerivedData/gameskeleton/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/jj/Desktop/gameskeleton/DerivedData/gameskeleton/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/jj/Desktop/gameskeleton/DerivedData/gameskeleton/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/jj/Desktop/gameskeleton/DerivedData/gameskeleton/Build/Products",
+      "pchPath" : "/Users/jj/Desktop/gameskeleton/DerivedData/gameskeleton/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
