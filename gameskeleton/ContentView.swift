@@ -6,19 +6,12 @@
 //
 
 import SwiftUI
+private let defaultLocation = CGPoint(x: 100, y: 50)
 
 struct ContentView: View {
     var body: some View {
-        Circle()
-            .fill(.blue)
-        Text("hello")
-        var x = 1
-        Button("press") {
-            print(x)
-            x += 1
-        }
+        JoystickView()
     }
-    
 }
 
 #Preview {
