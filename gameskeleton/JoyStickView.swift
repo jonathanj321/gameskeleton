@@ -4,7 +4,6 @@
 //
 //  Created by Moritz Kohlenz on 2/27/25.
 //
-
 import SwiftUI
 
 struct JoystickView: View {
@@ -12,11 +11,14 @@ struct JoystickView: View {
     @State private var outerCircleLocation: CGPoint = CGPoint(x: 100, y: 50)
     @State private var innerCircleLocation: CGPoint = CGPoint(x: 100, y: 50)
     private let bigCircleRadius: CGFloat = 50
+    // Public binding to access the joystick angle from anywhere
+    @Binding var joyStickAngle: Double
 
     var fingerDrag: some Gesture {
         DragGesture(minimumDistance: 0)
             .onChanged { value in
-                let distance = sqrt(pow(value.location.x - outerCircleLocation.x, 2) + pow(value.location.y - outerCircleLocation.y, 2))
+                let distance = sqrt(pow(value.location.x - outerCircleLocation.x, 2) +
+                                    pow(value.location.y - outerCircleLocation.y, 2))
                 
                 if outerCircleLocation == defaultLocation && innerCircleLocation == defaultLocation && distance > bigCircleRadius {
                     outerCircleLocation = value.location
@@ -30,10 +32,12 @@ struct JoystickView: View {
                 
                 outerCircleLocation = CGPoint(x: newX, y: newY)
                 innerCircleLocation = value.location
+                joyStickAngle = angle
             }
             .onEnded { _ in
                 outerCircleLocation = defaultLocation
                 innerCircleLocation = defaultLocation
+                joyStickAngle = 0
             }
     }
     
@@ -51,7 +55,7 @@ struct JoystickView: View {
         ZStack {
             Color.white
                 .ignoresSafeArea()
-                .contentShape(Rectangle()) // Entire screen tappable
+                .contentShape(Rectangle())
                 .simultaneousGesture(fingerDrag)
             
             // Outer joystick circle
@@ -64,7 +68,7 @@ struct JoystickView: View {
             // Inner joystick circle
             Circle()
                 .foregroundColor(Color(white: 0.4745))
-                .frame(width: bigCircleRadius/1.25, height: bigCircleRadius/1.25)
+                .frame(width: bigCircleRadius / 1.25, height: bigCircleRadius / 1.25)
                 .position(innerCircleLocation)
                 .gesture(fingerDrag)
             
@@ -78,11 +82,5 @@ struct JoystickView: View {
                 .cornerRadius(10)
                 .position(x: UIScreen.main.bounds.width / 2, y: 50)
         }
-    }
-}
-
-struct JoystickView_Previews: PreviewProvider {
-    static var previews: some View {
-        JoystickView()
     }
 }

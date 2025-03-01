@@ -6,11 +6,15 @@
 //
 
 import SwiftUI
-private let defaultLocation = CGPoint(x: 100, y: 50)
 
 struct ContentView: View {
+    @State private var currentAngle: Double = 0.0
+
     var body: some View {
-        JoystickView()
+        JoystickView(joyStickAngle: $currentAngle)
+            .onChange(of: currentAngle) {
+                print("Current Joystick Angle: \(currentAngle) rad")
+            }
     }
 }
 
