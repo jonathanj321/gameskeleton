@@ -11,12 +11,13 @@ struct JoystickView: View {
     @State private var outerCircleLocation: CGPoint = CGPoint(x: 100, y: 50)
     @State private var innerCircleLocation: CGPoint = CGPoint(x: 100, y: 50)
     private let bigCircleRadius: CGFloat = 50
-    // Public binding to access the joystick angle from anywhere
     @Binding var joyStickAngle: Double
+    @Binding var isActive: Bool
 
     var fingerDrag: some Gesture {
         DragGesture(minimumDistance: 0)
             .onChanged { value in
+                isActive = true
                 let distance = sqrt(pow(value.location.x - outerCircleLocation.x, 2) +
                                     pow(value.location.y - outerCircleLocation.y, 2))
                 
@@ -38,6 +39,7 @@ struct JoystickView: View {
                 outerCircleLocation = defaultLocation
                 innerCircleLocation = defaultLocation
                 joyStickAngle = 0
+                isActive = false
             }
     }
     
@@ -53,7 +55,8 @@ struct JoystickView: View {
     
     var body: some View {
         ZStack {
-            Color.white
+            Color.clear
+                .frame(maxWidth: .infinity, maxHeight: .infinity)
                 .ignoresSafeArea()
                 .contentShape(Rectangle())
                 .simultaneousGesture(fingerDrag)
