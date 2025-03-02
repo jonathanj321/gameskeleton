@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B61A83F9FE2B9BAFEE40EFF61AB306407B6EE95C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B61A83F9FE2B9BAFEE40EFF61AB306407B6EE95C" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "68976FD4-F2F9-48F8-A36E-1AAA4DD8E120",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B61A83F9FE2B9BAFEE40EFF61AB306407B6EE95C" : "gameskeleton\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "gameskeleton",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "gameskeleton.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jonathanj321\/gameskeleton.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B61A83F9FE2B9BAFEE40EFF61AB306407B6EE95C"
+    }
+  ]
+}

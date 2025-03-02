@@ -1,0 +1,12 @@
+{
+  "" : {
+    "dependencies" : "/Users/jj/Desktop/gameskeleton/DerivedData/gameskeleton/Index.noindex/Build/Intermediates.noindex/gameskeleton.build/Debug-iphonesimulator/gameskeletonTests.build/Objects-normal/arm64/gameskeletonTests-master.d",
+    "diagnostics" : "/Users/jj/Desktop/gameskeleton/DerivedData/gameskeleton/Index.noindex/Build/Intermediates.noindex/gameskeleton.build/Debug-iphonesimulator/gameskeletonTests.build/Objects-normal/arm64/gameskeletonTests-master.dia",
+    "emit-module-dependencies" : "/Users/jj/Desktop/gameskeleton/DerivedData/gameskeleton/Index.noindex/Build/Intermediates.noindex/gameskeleton.build/Debug-iphonesimulator/gameskeletonTests.build/Objects-normal/arm64/gameskeletonTests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/jj/Desktop/gameskeleton/DerivedData/gameskeleton/Index.noindex/Build/Intermediates.noindex/gameskeleton.build/Debug-iphonesimulator/gameskeletonTests.build/Objects-normal/arm64/gameskeletonTests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/jj/Desktop/gameskeleton/DerivedData/gameskeleton/Index.noindex/Build/Intermediates.noindex/gameskeleton.build/Debug-iphonesimulator/gameskeletonTests.build/Objects-normal/arm64/gameskeletonTests-master.swiftdeps"
+  },
+  "/Users/jj/Desktop/gameskeleton/gameskeletonTests/gameskeletonTests.swift" : {
+
+  }
+}

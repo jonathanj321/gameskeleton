@@ -13,6 +13,7 @@ struct JoystickView: View {
     private let bigCircleRadius: CGFloat = 50
     @Binding var joyStickAngle: Double
     @Binding var isActive: Bool
+    @Binding var joyDistance: Double
 
     var fingerDrag: some Gesture {
         DragGesture(minimumDistance: 0)
@@ -34,12 +35,15 @@ struct JoystickView: View {
                 outerCircleLocation = CGPoint(x: newX, y: newY)
                 innerCircleLocation = value.location
                 joyStickAngle = angle
+                joyDistance = distance
+                
             }
             .onEnded { _ in
                 outerCircleLocation = defaultLocation
                 innerCircleLocation = defaultLocation
                 joyStickAngle = 0
                 isActive = false
+                joyDistance = 0;
             }
     }
     
@@ -63,17 +67,19 @@ struct JoystickView: View {
             
             // Outer joystick circle
             Circle()
-                .foregroundColor(.gray)
+                .foregroundColor(.gray).opacity(0.5)
                 .frame(width: bigCircleRadius * 2, height: bigCircleRadius * 2)
                 .position(outerCircleLocation)
                 .gesture(fingerDrag)
+
             
             // Inner joystick circle
             Circle()
-                .foregroundColor(Color(white: 0.4745))
+                .foregroundColor(Color(white: 0.4745)).opacity(0.5)
                 .frame(width: bigCircleRadius / 1.25, height: bigCircleRadius / 1.25)
                 .position(innerCircleLocation)
                 .gesture(fingerDrag)
+
             
             // Angle text overlay
             Text(angleText)

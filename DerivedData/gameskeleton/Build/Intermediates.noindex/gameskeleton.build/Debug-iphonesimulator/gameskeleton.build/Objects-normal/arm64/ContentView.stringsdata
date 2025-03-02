@@ -1,16 +1,5 @@
 {
   "source": "/Users/jj/Desktop/gameskeleton/gameskeleton/ContentView.swift",
-  "tables": {
-    "Localizable": [
-      {
-        "comment": "",
-        "key": "hello",
-        "location": {
-          "startingColumn": 54,
-          "startingLine": 20
-        }
-      }
-    ]
-  },
+  "tables": {},
   "version": 1
 }

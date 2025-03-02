@@ -1,0 +1,67 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "902c18664e07467d4e7f4aecd9c4734b98206b4bc1ab62195cf66b4e1a9beb12"
+    }
+  ],
+  "containerPath" : "/Users/jj/Desktop/gameskeleton/gameskeleton.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "undefined_arch",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : true,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos18.0",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "armv4t",
+        "armv5",
+        "armv6",
+        "armv7",
+        "armv7f",
+        "armv7s",
+        "armv7k",
+        "arm64",
+        "arm64e"
+      ],
+      "targetArchitecture" : "undefined_arch"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/jj/Desktop/gameskeleton/DerivedData/gameskeleton/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/jj/Desktop/gameskeleton/DerivedData/gameskeleton/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/jj/Desktop/gameskeleton/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/jj/Desktop/gameskeleton/DerivedData/gameskeleton/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/jj/Desktop/gameskeleton/DerivedData/gameskeleton/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/jj/Desktop/gameskeleton/DerivedData/gameskeleton/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/jj/Desktop/gameskeleton/DerivedData/gameskeleton/Build/Products",
+      "pchPath" : "/Users/jj/Desktop/gameskeleton/DerivedData/gameskeleton/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
